@@ -1,5 +1,7 @@
-## iso-profiles
+## custom-manjaro-iso-profiles
 
+Profiles for custom Manjaro ISOs.
+Cloned from [https://gitlab.manjaro.org/profiles-and-settings/iso-profiles](https://gitlab.manjaro.org/profiles-and-settings/iso-profiles).
 
 ### profile.conf
 
